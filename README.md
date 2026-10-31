@@ -6,3 +6,4 @@
 | 4 | [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) | [LeetCode](https://leetcode.com/problems/set-mismatch/) | Easy | 30 Oct 2026 | 11:20 am |
 | 5 | [Image Smoother](./LeetCode/Easy/Image%20Smoother) | [LeetCode](https://leetcode.com/problems/image-smoother/) | Easy | 31 Oct 2026 | 12:43 pm |
 | 6 | [Longest Continuous Increasing Subsequence](./LeetCode/Easy/Longest%20Continuous%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | 31 Oct 2026 | 07:14 pm |
+| 7 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 31 Oct 2026 | 08:02 pm |

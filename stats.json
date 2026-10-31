@@ -1,11 +1,11 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -16,15 +16,17 @@
     "LeetCode_Maximum_Average_Subarray_I": true,
     "LeetCode_Set_Mismatch": true,
     "LeetCode_Image_Smoother": true,
-    "LeetCode_Longest_Continuous_Increasing_Subsequence": true
+    "LeetCode_Longest_Continuous_Increasing_Subsequence": true,
+    "LeetCode_Baseball_Game": true
   },
   "activityHistory": {
     "2026-10-29": 2,
     "2026-10-30": 2,
-    "2026-10-31": 2
+    "2026-10-31": 3
   },
   "todayProblems": [
     "Image Smoother",
-    "Longest Continuous Increasing Subsequence"
+    "Longest Continuous Increasing Subsequence",
+    "Baseball Game"
   ]
 }
