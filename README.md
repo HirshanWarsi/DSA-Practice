@@ -8,3 +8,4 @@
 | 6 | [Longest Continuous Increasing Subsequence](./LeetCode/Easy/Longest%20Continuous%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | 31 Oct 2026 | 07:14 pm |
 | 7 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 31 Oct 2026 | 08:02 pm |
 | 8 | [Degree of an Array](./LeetCode/Easy/Degree%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) | Easy | 31 Oct 2026 | 09:04 pm |
+| 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 31 Oct 2026 | 11:43 pm |
