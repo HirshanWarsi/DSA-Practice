@@ -10,3 +10,4 @@
 | 8 | [Degree of an Array](./LeetCode/Easy/Degree%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) | Easy | 31 Oct 2026 | 09:04 pm |
 | 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 31 Oct 2026 | 11:43 pm |
 | 10 | [Design HashMap](./LeetCode/Easy/Design%20HashMap) | [LeetCode](https://leetcode.com/problems/design-hashmap/) | Easy | 01 Nov 2026 | 11:21 pm |
+| 11 | [1-bit and 2-bit Characters](./LeetCode/Easy/1-bit%20and%202-bit%20Characters) | [LeetCode](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Easy | 01 Nov 2026 | 11:57 pm |
