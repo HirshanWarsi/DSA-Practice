@@ -9,3 +9,4 @@
 | 7 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 31 Oct 2026 | 08:02 pm |
 | 8 | [Degree of an Array](./LeetCode/Easy/Degree%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) | Easy | 31 Oct 2026 | 09:04 pm |
 | 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 31 Oct 2026 | 11:43 pm |
+| 10 | [Design HashMap](./LeetCode/Easy/Design%20HashMap) | [LeetCode](https://leetcode.com/problems/design-hashmap/) | Easy | 01 Nov 2026 | 11:21 pm |
