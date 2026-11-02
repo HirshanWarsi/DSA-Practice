@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-11-01",
-  "todayCount": 2,
+  "totalSolved": 12,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-11-02",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
@@ -21,16 +21,17 @@
     "LeetCode_Degree_of_an_Array": true,
     "LeetCode_Design_HashSet": true,
     "LeetCode_Design_HashMap": true,
-    "LeetCode_1-bit_and_2-bit_Characters": true
+    "LeetCode_1-bit_and_2-bit_Characters": true,
+    "LeetCode_Count_Number_of_Nice_Subarrays": true
   },
   "activityHistory": {
     "2026-10-29": 2,
     "2026-10-30": 2,
     "2026-10-31": 5,
-    "2026-11-01": 2
+    "2026-11-01": 2,
+    "2026-11-02": 1
   },
   "todayProblems": [
-    "Design HashMap",
-    "1-bit and 2-bit Characters"
+    "Count Number of Nice Subarrays"
   ]
 }

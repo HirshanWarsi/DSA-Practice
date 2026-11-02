@@ -11,3 +11,4 @@
 | 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 31 Oct 2026 | 11:43 pm |
 | 10 | [Design HashMap](./LeetCode/Easy/Design%20HashMap) | [LeetCode](https://leetcode.com/problems/design-hashmap/) | Easy | 01 Nov 2026 | 11:21 pm |
 | 11 | [1-bit and 2-bit Characters](./LeetCode/Easy/1-bit%20and%202-bit%20Characters) | [LeetCode](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Easy | 01 Nov 2026 | 11:57 pm |
+| 12 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 02 Nov 2026 | 08:25 pm |
