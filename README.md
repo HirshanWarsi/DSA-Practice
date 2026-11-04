@@ -16,3 +16,4 @@
 | 14 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 03 Nov 2026 | 11:57 pm |
 | 15 | [Largest Number At Least Twice of Others](./LeetCode/Easy/Largest%20Number%20At%20Least%20Twice%20of%20Others) | [LeetCode](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | 04 Nov 2026 | 06:26 pm |
 | 16 | [Shortest Completing Word](./LeetCode/Easy/Shortest%20Completing%20Word) | [LeetCode](https://leetcode.com/problems/shortest-completing-word/) | Easy | 04 Nov 2026 | 07:52 pm |
+| 17 | [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) | [LeetCode](https://leetcode.com/problems/toeplitz-matrix/) | Easy | 04 Nov 2026 | 10:44 pm |
