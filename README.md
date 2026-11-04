@@ -14,3 +14,4 @@
 | 12 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 02 Nov 2026 | 08:25 pm |
 | 13 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 02 Nov 2026 | 11:54 pm |
 | 14 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 03 Nov 2026 | 11:57 pm |
+| 15 | [Largest Number At Least Twice of Others](./LeetCode/Easy/Largest%20Number%20At%20Least%20Twice%20of%20Others) | [LeetCode](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | 04 Nov 2026 | 06:26 pm |
