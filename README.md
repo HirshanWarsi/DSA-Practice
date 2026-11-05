@@ -18,3 +18,4 @@
 | 16 | [Shortest Completing Word](./LeetCode/Easy/Shortest%20Completing%20Word) | [LeetCode](https://leetcode.com/problems/shortest-completing-word/) | Easy | 04 Nov 2026 | 07:52 pm |
 | 17 | [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) | [LeetCode](https://leetcode.com/problems/toeplitz-matrix/) | Easy | 04 Nov 2026 | 10:44 pm |
 | 18 | [Unique Morse Code Words](./LeetCode/Easy/Unique%20Morse%20Code%20Words) | [LeetCode](https://leetcode.com/problems/unique-morse-code-words/) | Easy | 05 Nov 2026 | 09:44 pm |
+| 19 | [Number of Lines To Write String](./LeetCode/Easy/Number%20of%20Lines%20To%20Write%20String) | [LeetCode](https://leetcode.com/problems/number-of-lines-to-write-string/) | Easy | 06 Nov 2026 | 12:05 am |
