@@ -20,3 +20,4 @@
 | 18 | [Unique Morse Code Words](./LeetCode/Easy/Unique%20Morse%20Code%20Words) | [LeetCode](https://leetcode.com/problems/unique-morse-code-words/) | Easy | 05 Nov 2026 | 09:44 pm |
 | 19 | [Number of Lines To Write String](./LeetCode/Easy/Number%20of%20Lines%20To%20Write%20String) | [LeetCode](https://leetcode.com/problems/number-of-lines-to-write-string/) | Easy | 06 Nov 2026 | 12:05 am |
 | 20 | [Largest Triangle Area](./LeetCode/Easy/Largest%20Triangle%20Area) | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | Easy | 06 Nov 2026 | 10:03 pm |
+| 21 | [Minimum Value of Merged Integers](./LeetCode/Easy/Minimum%20Value%20of%20Merged%20Integers) | [LeetCode](https://leetcode.com/problems/minimum-value-of-merged-integers/) | Easy | 07 Nov 2026 | 10:10 am |
