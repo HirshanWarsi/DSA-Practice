@@ -22,3 +22,4 @@
 | 20 | [Largest Triangle Area](./LeetCode/Easy/Largest%20Triangle%20Area) | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | Easy | 06 Nov 2026 | 10:03 pm |
 | 21 | [Minimum Value of Merged Integers](./LeetCode/Easy/Minimum%20Value%20of%20Merged%20Integers) | [LeetCode](https://leetcode.com/problems/minimum-value-of-merged-integers/) | Easy | 07 Nov 2026 | 10:10 am |
 | 22 | [Max Distance Between Same](./GeeksForGeeks/Easy/Max%20Distance%20Between%20Same) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-distance-between-same-elements/1) | Easy | 07 Nov 2026 | 08:40 pm |
+| 23 | [Shortest Distance to a Character](./LeetCode/Easy/Shortest%20Distance%20to%20a%20Character) | [LeetCode](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy | 08 Nov 2026 | 11:37 pm |
