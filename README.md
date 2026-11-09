@@ -24,3 +24,4 @@
 | 22 | [Max Distance Between Same](./GeeksForGeeks/Easy/Max%20Distance%20Between%20Same) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-distance-between-same-elements/1) | Easy | 07 Nov 2026 | 08:40 pm |
 | 23 | [Shortest Distance to a Character](./LeetCode/Easy/Shortest%20Distance%20to%20a%20Character) | [LeetCode](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy | 08 Nov 2026 | 11:37 pm |
 | 24 | [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) | [LeetCode](https://leetcode.com/problems/flipping-an-image/) | Easy | 09 Nov 2026 | 11:11 pm |
+| 25 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 09 Nov 2026 | 11:59 pm |
