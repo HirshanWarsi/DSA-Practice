@@ -27,3 +27,4 @@
 | 25 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 09 Nov 2026 | 11:59 pm |
 | 26 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 10 Nov 2026 | 11:32 pm |
 | 27 | [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | 11 Nov 2026 | 12:01 pm |
+| 28 | [Surface Area of 3D Shapes](./LeetCode/Easy/Surface%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | 11 Nov 2026 | 12:47 pm |
