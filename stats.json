@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-11-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -39,7 +39,8 @@
     "LeetCode_Transpose_Matrix": true,
     "LeetCode_Projection_Area_of_3D_Shapes": true,
     "LeetCode_Surface_Area_of_3D_Shapes": true,
-    "LeetCode_Monotonic_Array": true
+    "LeetCode_Monotonic_Array": true,
+    "LeetCode_Sort_Array_By_Parity": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -56,9 +57,10 @@
     "2026-11-09": 2,
     "2026-11-10": 1,
     "2026-11-11": 2,
-    "2026-11-12": 1
+    "2026-11-12": 2
   },
   "todayProblems": [
-    "Monotonic Array"
+    "Monotonic Array",
+    "Sort Array By Parity"
   ]
 }
