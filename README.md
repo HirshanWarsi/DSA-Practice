@@ -28,3 +28,4 @@
 | 26 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 10 Nov 2026 | 11:32 pm |
 | 27 | [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | 11 Nov 2026 | 12:01 pm |
 | 28 | [Surface Area of 3D Shapes](./LeetCode/Easy/Surface%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | 11 Nov 2026 | 12:47 pm |
+| 29 | [Monotonic Array](./LeetCode/Easy/Monotonic%20Array) | [LeetCode](https://leetcode.com/problems/monotonic-array/) | Easy | 12 Nov 2026 | 10:35 am |
