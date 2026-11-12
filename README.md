@@ -30,3 +30,4 @@
 | 28 | [Surface Area of 3D Shapes](./LeetCode/Easy/Surface%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | 11 Nov 2026 | 12:47 pm |
 | 29 | [Monotonic Array](./LeetCode/Easy/Monotonic%20Array) | [LeetCode](https://leetcode.com/problems/monotonic-array/) | Easy | 12 Nov 2026 | 10:35 am |
 | 30 | [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) | Easy | 12 Nov 2026 | 11:16 am |
+| 31 | [Smallest Range I](./LeetCode/Easy/Smallest%20Range%20I) | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | Easy | 12 Nov 2026 | 04:23 pm |
