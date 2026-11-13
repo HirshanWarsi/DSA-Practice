@@ -32,3 +32,4 @@
 | 30 | [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) | Easy | 12 Nov 2026 | 11:16 am |
 | 31 | [Smallest Range I](./LeetCode/Easy/Smallest%20Range%20I) | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | Easy | 12 Nov 2026 | 04:23 pm |
 | 32 | [X of a Kind in a Deck of Cards](./LeetCode/Easy/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards) | [LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | Easy | 12 Nov 2026 | 07:07 pm |
+| 33 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 13 Nov 2026 | 09:44 pm |

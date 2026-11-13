@@ -1,11 +1,11 @@
 {
-  "totalSolved": 32,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 4,
+  "totalSolved": 33,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -42,7 +42,8 @@
     "LeetCode_Monotonic_Array": true,
     "LeetCode_Sort_Array_By_Parity": true,
     "LeetCode_Smallest_Range_I": true,
-    "LeetCode_X_of_a_Kind_in_a_Deck_of_Cards": true
+    "LeetCode_X_of_a_Kind_in_a_Deck_of_Cards": true,
+    "LeetCode_Sort_Array_By_Parity_II": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -59,12 +60,10 @@
     "2026-11-09": 2,
     "2026-11-10": 1,
     "2026-11-11": 2,
-    "2026-11-12": 4
+    "2026-11-12": 4,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Monotonic Array",
-    "Sort Array By Parity",
-    "Smallest Range I",
-    "X of a Kind in a Deck of Cards"
+    "Sort Array By Parity II"
   ]
 }
