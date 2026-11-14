@@ -34,3 +34,4 @@
 | 32 | [X of a Kind in a Deck of Cards](./LeetCode/Easy/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards) | [LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | Easy | 12 Nov 2026 | 07:07 pm |
 | 33 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 13 Nov 2026 | 09:44 pm |
 | 34 | [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/valid-mountain-array/) | Easy | 13 Nov 2026 | 10:55 pm |
+| 35 | [Largest Subarray with 0 Sum](./GeeksForGeeks/Medium/Largest%20Subarray%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 14 Nov 2026 | 11:46 am |
