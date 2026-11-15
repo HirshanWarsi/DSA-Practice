@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 17,
-  "maxStreak": 17,
-  "lastSyncDate": "2026-11-14",
-  "todayCount": 3,
+  "totalSolved": 38,
+  "currentStreak": 18,
+  "maxStreak": 18,
+  "lastSyncDate": "2026-11-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -47,7 +47,8 @@
     "LeetCode_Valid_Mountain_Array": true,
     "GeeksForGeeks_Largest_Subarray_with_0_Sum": true,
     "LeetCode_Count_Number_of_Pairs_With_Absolute_Difference_K": true,
-    "GeeksForGeeks_Subarrays_with_Sum_K": true
+    "GeeksForGeeks_Subarrays_with_Sum_K": true,
+    "GeeksForGeeks_Count_Subarrays_with_XOR": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -66,11 +67,10 @@
     "2026-11-11": 2,
     "2026-11-12": 4,
     "2026-11-13": 2,
-    "2026-11-14": 3
+    "2026-11-14": 3,
+    "2026-11-15": 1
   },
   "todayProblems": [
-    "Largest Subarray with 0 Sum",
-    "Count Number of Pairs With Absolute Difference K",
-    "Subarrays with Sum K"
+    "Count Subarrays with XOR"
   ]
 }
