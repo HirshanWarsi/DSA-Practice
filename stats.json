@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 19,
-  "maxStreak": 19,
-  "lastSyncDate": "2026-11-16",
+  "totalSolved": 41,
+  "currentStreak": 20,
+  "maxStreak": 20,
+  "lastSyncDate": "2026-11-17",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -50,7 +50,8 @@
     "GeeksForGeeks_Subarrays_with_Sum_K": true,
     "GeeksForGeeks_Count_Subarrays_with_XOR": true,
     "GeeksForGeeks_Longest_Subarray_with_Sum_K": true,
-    "LeetCode_Longest_Palindrome_by_Concatenating_Two_Letter_Words": true
+    "LeetCode_Longest_Palindrome_by_Concatenating_Two_Letter_Words": true,
+    "GeeksForGeeks_Kadane's_Algorithm": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -71,9 +72,10 @@
     "2026-11-13": 2,
     "2026-11-14": 3,
     "2026-11-15": 2,
-    "2026-11-16": 1
+    "2026-11-16": 1,
+    "2026-11-17": 1
   },
   "todayProblems": [
-    "Longest Palindrome by Concatenating Two Letter Words"
+    "Kadane's Algorithm"
   ]
 }
