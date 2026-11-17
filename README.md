@@ -41,3 +41,4 @@
 | 39 | [Longest Subarray with Sum K](./GeeksForGeeks/Medium/Longest%20Subarray%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Medium | 15 Nov 2026 | 08:56 pm |
 | 40 | [Longest Palindrome by Concatenating Two Letter Words](./LeetCode/Medium/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words) | [LeetCode](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | 16 Nov 2026 | 10:33 pm |
 | 41 | [Kadane's Algorithm](./GeeksForGeeks/Medium/Kadane's%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | Medium | 17 Nov 2026 | 07:13 pm |
+| 42 | [DI String Match](./LeetCode/Easy/DI%20String%20Match) | [LeetCode](https://leetcode.com/problems/di-string-match/) | Easy | 17 Nov 2026 | 11:31 pm |
