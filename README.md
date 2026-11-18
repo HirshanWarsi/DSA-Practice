@@ -42,3 +42,4 @@
 | 40 | [Longest Palindrome by Concatenating Two Letter Words](./LeetCode/Medium/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words) | [LeetCode](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | 16 Nov 2026 | 10:33 pm |
 | 41 | [Kadane's Algorithm](./GeeksForGeeks/Medium/Kadane's%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | Medium | 17 Nov 2026 | 07:13 pm |
 | 42 | [DI String Match](./LeetCode/Easy/DI%20String%20Match) | [LeetCode](https://leetcode.com/problems/di-string-match/) | Easy | 17 Nov 2026 | 11:31 pm |
+| 43 | [Delete Columns to Make Sorted](./LeetCode/Easy/Delete%20Columns%20to%20Make%20Sorted) | [LeetCode](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | 18 Nov 2026 | 11:43 pm |

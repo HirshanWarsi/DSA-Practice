@@ -1,11 +1,11 @@
 {
-  "totalSolved": 42,
-  "currentStreak": 20,
-  "maxStreak": 20,
-  "lastSyncDate": "2026-11-17",
-  "todayCount": 2,
+  "totalSolved": 43,
+  "currentStreak": 21,
+  "maxStreak": 21,
+  "lastSyncDate": "2026-11-18",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 35,
+    "easy": 36,
     "medium": 7,
     "hard": 0,
     "basic": 0
@@ -52,7 +52,8 @@
     "GeeksForGeeks_Longest_Subarray_with_Sum_K": true,
     "LeetCode_Longest_Palindrome_by_Concatenating_Two_Letter_Words": true,
     "GeeksForGeeks_Kadane's_Algorithm": true,
-    "LeetCode_DI_String_Match": true
+    "LeetCode_DI_String_Match": true,
+    "LeetCode_Delete_Columns_to_Make_Sorted": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -74,10 +75,10 @@
     "2026-11-14": 3,
     "2026-11-15": 2,
     "2026-11-16": 1,
-    "2026-11-17": 2
+    "2026-11-17": 2,
+    "2026-11-18": 1
   },
   "todayProblems": [
-    "Kadane's Algorithm",
-    "DI String Match"
+    "Delete Columns to Make Sorted"
   ]
 }
