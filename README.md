@@ -44,3 +44,4 @@
 | 42 | [DI String Match](./LeetCode/Easy/DI%20String%20Match) | [LeetCode](https://leetcode.com/problems/di-string-match/) | Easy | 17 Nov 2026 | 11:31 pm |
 | 43 | [Delete Columns to Make Sorted](./LeetCode/Easy/Delete%20Columns%20to%20Make%20Sorted) | [LeetCode](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | 18 Nov 2026 | 11:43 pm |
 | 44 | [Verifying an Alien Dictionary](./LeetCode/Easy/Verifying%20an%20Alien%20Dictionary) | [LeetCode](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | 19 Nov 2026 | 11:47 pm |
+| 45 | [N-Repeated Element in Size 2N Array](./LeetCode/Easy/N-Repeated%20Element%20in%20Size%202N%20Array) | [LeetCode](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | 20 Nov 2026 | 10:30 pm |
