@@ -1,11 +1,11 @@
 {
-  "totalSolved": 45,
-  "currentStreak": 23,
-  "maxStreak": 23,
-  "lastSyncDate": "2026-11-20",
+  "totalSolved": 46,
+  "currentStreak": 24,
+  "maxStreak": 24,
+  "lastSyncDate": "2026-11-21",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 38,
+    "easy": 39,
     "medium": 7,
     "hard": 0,
     "basic": 0
@@ -55,7 +55,8 @@
     "LeetCode_DI_String_Match": true,
     "LeetCode_Delete_Columns_to_Make_Sorted": true,
     "LeetCode_Verifying_an_Alien_Dictionary": true,
-    "LeetCode_N-Repeated_Element_in_Size_2N_Array": true
+    "LeetCode_N-Repeated_Element_in_Size_2N_Array": true,
+    "LeetCode_Largest_Perimeter_Triangle": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -80,9 +81,10 @@
     "2026-11-17": 2,
     "2026-11-18": 1,
     "2026-11-19": 1,
-    "2026-11-20": 1
+    "2026-11-20": 1,
+    "2026-11-21": 1
   },
   "todayProblems": [
-    "N-Repeated Element in Size 2N Array"
+    "Largest Perimeter Triangle"
   ]
 }
