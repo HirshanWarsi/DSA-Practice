@@ -47,3 +47,4 @@
 | 45 | [N-Repeated Element in Size 2N Array](./LeetCode/Easy/N-Repeated%20Element%20in%20Size%202N%20Array) | [LeetCode](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | 20 Nov 2026 | 10:30 pm |
 | 46 | [Largest Perimeter Triangle](./LeetCode/Easy/Largest%20Perimeter%20Triangle) | [LeetCode](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | 21 Nov 2026 | 11:35 pm |
 | 47 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 22 Nov 2026 | 11:41 pm |
+| 48 | [Add to Array-Form of Integer](./LeetCode/Easy/Add%20to%20Array-Form%20of%20Integer) | [LeetCode](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | 23 Nov 2026 | 11:57 pm |
