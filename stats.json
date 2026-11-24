@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 26,
-  "maxStreak": 26,
-  "lastSyncDate": "2026-11-23",
+  "totalSolved": 49,
+  "currentStreak": 27,
+  "maxStreak": 27,
+  "lastSyncDate": "2026-11-24",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 41,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "LeetCode_N-Repeated_Element_in_Size_2N_Array": true,
     "LeetCode_Largest_Perimeter_Triangle": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
-    "LeetCode_Add_to_Array-Form_of_Integer": true
+    "LeetCode_Add_to_Array-Form_of_Integer": true,
+    "LeetCode_4Sum_II": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -86,9 +87,10 @@
     "2026-11-20": 1,
     "2026-11-21": 1,
     "2026-11-22": 1,
-    "2026-11-23": 1
+    "2026-11-23": 1,
+    "2026-11-24": 1
   },
   "todayProblems": [
-    "Add to Array-Form of Integer"
+    "4Sum II"
   ]
 }
