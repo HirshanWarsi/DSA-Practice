@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 28,
-  "maxStreak": 28,
-  "lastSyncDate": "2026-11-25",
+  "totalSolved": 51,
+  "currentStreak": 29,
+  "maxStreak": 29,
+  "lastSyncDate": "2026-11-26",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 42,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -60,7 +60,8 @@
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "LeetCode_Add_to_Array-Form_of_Integer": true,
     "LeetCode_4Sum_II": true,
-    "LeetCode_Find_the_Town_Judge": true
+    "LeetCode_Find_the_Town_Judge": true,
+    "LeetCode_Minimum_Operations_to_Make_Mountain_Array_I": true
   },
   "activityHistory": {
     "2026-10-29": 2,
@@ -90,9 +91,10 @@
     "2026-11-22": 1,
     "2026-11-23": 1,
     "2026-11-24": 1,
-    "2026-11-25": 1
+    "2026-11-25": 1,
+    "2026-11-26": 1
   },
   "todayProblems": [
-    "Find the Town Judge"
+    "Minimum Operations to Make Mountain Array I"
   ]
 }
