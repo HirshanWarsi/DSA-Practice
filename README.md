@@ -51,3 +51,4 @@
 | 49 | [4Sum II](./LeetCode/Medium/4Sum%20II) | [LeetCode](https://leetcode.com/problems/4sum-ii/) | Medium | 24 Nov 2026 | 10:57 pm |
 | 50 | [Find the Town Judge](./LeetCode/Easy/Find%20the%20Town%20Judge) | [LeetCode](https://leetcode.com/problems/find-the-town-judge/) | Easy | 25 Nov 2026 | 11:53 pm |
 | 51 | [Minimum Operations to Make Mountain Array I](./LeetCode/Medium/Minimum%20Operations%20to%20Make%20Mountain%20Array%20I) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-mountain-array-i/) | Medium | 26 Nov 2026 | 02:12 pm |
+| 52 | [Available Captures for Rook](./LeetCode/Easy/Available%20Captures%20for%20Rook) | [LeetCode](https://leetcode.com/problems/available-captures-for-rook/) | Easy | 27 Nov 2026 | 11:05 pm |
